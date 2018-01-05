@@ -4,7 +4,7 @@
 This provides the completed projects for:
 - first_server
 - fortunes_api
-- "psql_section"
+- psql_section
 - monsters_api
 
 Check out the original course which i have followed :
